@@ -1,4 +1,4 @@
-# chdataanalytics
+# Coder House, Data Analytics
 Proyecto del curso Data Analytics 2021
 
 # Objetivo
